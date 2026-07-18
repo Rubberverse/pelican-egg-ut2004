@@ -2,7 +2,7 @@
     "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PANEL",
     "meta": {
         "version": "PLCN_v3",
-        "update_url": "https://raw.githubusercontent.com/MrRubberDucky/UT2004-egg/refs/heads/main/egg-unreal-tournament2004-old-unreal.json"
+        "update_url": "https://raw.githubusercontent.com/rubberverse/pelican-egg-ut2004/refs/heads/main/egg-unreal-tournament2004-old-unreal.json"
     },
     "exported_at": "2026-04-16T18:51:54+00:00",
     "name": "Unreal Tournament 2004 (OldUnreal)",
